@@ -76,8 +76,6 @@ FROM googleplaystore
 GROUP BY Category
 ORDER BY Category
 
--- Top 5 Most Popular Categories by Number of Apps 
-
 
 
 -- Question 3: Top 10 Rated Free Apps
